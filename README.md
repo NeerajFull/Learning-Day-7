@@ -11,6 +11,8 @@
 2. Core JavaScript
    - https://www.youtube.com/watch?v=sLhqHsElUDA&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=11&pp=iAQB
    - https://www.youtube.com/watch?v=x-CRTBN61Ik&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=10&pp=iAQB
+   - https://www.youtube.com/watch?v=SMNzn0x8gAE&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=8&pp=iAQB
+   - https://www.youtube.com/watch?v=KdYfuItOIco&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=7&pp=iAQB
   
 3. React Journey
    - Secret as Much as You can Learn.
