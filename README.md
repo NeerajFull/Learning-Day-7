@@ -2,7 +2,7 @@
 
 
 
-1. DSA Questions
+1. ✅ DSA Questions
    - https://leetcode.com/problems/valid-palindrome
    - https://leetcode.com/problems/reverse-words-in-a-string
    - https://leetcode.com/problems/single-number
